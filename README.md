@@ -1,4 +1,4 @@
-# **BSerem.es**, le site personnel de Boris Sérèmes
+# **BSerem.es**, site personnel de Boris Sérèmes
 
 Site personnel de Boris Sérèmes propulsé par [Webodex](https://webodex.org) : https://trello.com/b/wAWaS6bh/site-personnel
 
