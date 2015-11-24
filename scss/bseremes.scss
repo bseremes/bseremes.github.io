@@ -1,10 +1,12 @@
-@import '../partials/bourbon/bourbon';
+@import 'bourbon/bourbon';
 
-@import '../partials/variables'; // colors, fonts etc...
+@import 'fonts'; // colors, fonts etc...
 
-@import '../partials/mixins'; // custom mixins
+@import 'variables'; // colors, fonts etc...
 
-@import '../partials/layout'; // responsive grid and media queries
+@import 'mixins'; // custom mixins
+
+@import 'layout'; // responsive grid and media queries
 
 /* -------------------------------- 
 
@@ -23,6 +25,7 @@ html {
 body {
 	font: {
 		size: 1.6rem;
+        family: $primary-font;
 	}
 	color: $color-1;
 	background-color: $color-4;
@@ -41,6 +44,11 @@ button {
 	border: none;
 	outline: none;
 	cursor: pointer;
+}
+
+.bs-title {
+    font-family: $primary-font !important;
+    font-size: 1.8rem;
 }
 
 /* -------------------------------- 
@@ -476,7 +484,8 @@ button {
 		}
 
 		.content-wrapper p {
-			font-size: 1.8rem
+			font-size: 1.8rem;
+            font-family: $text-font;
 		}
 	}
 }
