@@ -66,6 +66,10 @@ button {
 	top: 34px;
 	left: 5%;
 	@include transition(opacity .3s, visibility .3s);
+    
+    img {
+        height: 44px;
+    }
 
 	&.project-open {
 		opacity: 0;
