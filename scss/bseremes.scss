@@ -46,11 +46,6 @@ button {
 	cursor: pointer;
 }
 
-.bs-title {
-    font-family: $primary-font !important;
-    font-size: 1.8rem;
-}
-
 /* -------------------------------- 
 
  Header
@@ -396,6 +391,14 @@ button {
 		font-weight: 700;
 		color: $color-5;
 		font-family: $secondary-font;
+        
+
+        &.bs-title {
+            font-family: $primary-font;
+            font-size: 4.2rem;
+            font-weight: 300;
+            letter-spacing: 1.2px;
+        }
 
 		/* vertical align inside .cd-title */
 		display: table-cell;
