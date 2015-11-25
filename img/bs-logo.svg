@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="26.811111mm"
-   height="29.633331mm"
-   viewBox="0 0 95.000008 104.99998"
+   width="23.98889mm"
+   height="26.81111mm"
+   viewBox="0 0 85.000009 94.999983"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6"
-     inkscape:cx="93.763244"
-     inkscape:cy="61.114603"
+     inkscape:cx="88.763244"
+     inkscape:cy="48.971749"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -45,8 +45,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid4136"
-       originx="4.9857607e-007"
-       originy="14.999497" />
+       originx="-5"
+       originy="9.9995007" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -64,16 +64,16 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(4.7683716e-7,-962.36171)">
+     transform="translate(-4.9999998,-967.36171)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#2d4b8a;stroke-width:15.00000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#52796f;stroke-width:5.00000048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 87.500005,1019.8617 0,40 -35.000005,0 m -45,-45 0,-45 40.000002,0"
        id="path4148"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
-       style="fill:#fca311;fill-opacity:1;fill-rule:evenodd;stroke:#fca311;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 32.500001,994.86169 0,40.00001 30.000002,0 0,-25 -30.000002,0 19.999499,0 0,-15.00001 z"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#fca311;stroke-width:5.00000048;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 32.500001,994.86169 0,40.00001 30.000002,0 0,-25 -15.000001,0 4.999498,0 0,-15.00001 z"
        id="path4140"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccc" />
