@@ -468,9 +468,12 @@ button {
 		color: $color-4;
 	}
 
-	.content-wrapper p {
-		margin-bottom: 2em;
+	.content-wrapper {
 		line-height: 2;
+        
+        p {
+		  margin-bottom: 2em;
+        }
 	}
 
 	.selected & {
@@ -490,9 +493,23 @@ button {
 			padding: 4em 0;
 		}
 
-		.content-wrapper p {
+		.content-wrapper {
+          p, li {
 			font-size: 1.8rem;
             font-family: $text-font;
+              
+              strong {
+                  font-weight: bold;
+              }
+              em {
+                  font-style: italic;
+              }
+		  }
+            li {
+                list-style-type: circle;
+                margin-left: 1em;
+                margin-bottom: 1em;
+            }
 		}
 	}
 }
