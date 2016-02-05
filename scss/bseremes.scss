@@ -488,28 +488,28 @@ button {
 		box-shadow: 0 -5px 30px rgba(#000, .2);
 	}
 
+    .content-wrapper {
+      p, li {
+        font-size: 1.8rem;
+        font-family: $text-font;
+
+          strong {
+              font-weight: bold;
+          }
+          em {
+              font-style: italic;
+          }
+      }
+        li {
+            list-style-type: circle;
+            margin-left: 1em;
+            margin-bottom: 1em;
+        }
+    }
+
 	@include MQ(L) {
 		.content-wrapper {
 			padding: 4em 0;
-		}
-
-		.content-wrapper {
-          p, li {
-			font-size: 1.8rem;
-            font-family: $text-font;
-              
-              strong {
-                  font-weight: bold;
-              }
-              em {
-                  font-style: italic;
-              }
-		  }
-            li {
-                list-style-type: circle;
-                margin-left: 1em;
-                margin-bottom: 1em;
-            }
 		}
 	}
 }
